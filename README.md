@@ -1,4 +1,4 @@
-# nepali-date-picker
+# Nepali Date Picker
 A nepali date picker in pure javascript
 
 Nepali date picker can be previewed by cloning or downloading the code and runnig index.html in a browser. There is text box showing the demonstration of nepali date picker.
